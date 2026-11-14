@@ -1,0 +1,35 @@
+Farting Hippos - press fact sheet
+Last updated: 14 November 2026
+Press kit: https://omargalal20084.github.io/farting-hippos-support/press/
+
+Developer and publisher: Brilliant Thoughts
+Platform: Android, on Google Play (Android 8.0 and up)
+Release date: 23 October 2026
+Current version: 1.0.0 (checked 14 November 2026)
+Price: Free. No advertisements, no in-app purchases and no account required.
+Mode: Single-player, playable offline. Multiplayer is not available in this release.
+Content: 100 obstacle courses in 10 chapters, 120 cosmetic choices and milestone trophies
+Content rating: Everyone - Mild Fantasy Violence, Crude Humor (as shown on Google Play in the US; ratings vary by region)
+Data safety: Developer declaration on Google Play: no data collected and no data shared with third parties
+Google Play: https://play.google.com/store/apps/details?id=com.brilliantthoughts.fartinghippos
+Press and support: brilliantthoughts2014@gmail.com
+
+One-line description:
+An offline Android obstacle-course game where a hippo steers a circular raft with fart-powered thrust.
+
+How it plays:
+- The on-screen joystick positions your hippo on the raft's rim. Hold FART and the raft is pushed the opposite way.
+- There is no brake button. Move around the rim and fart against your momentum, or let the raft coast.
+- Holding FART drains a gas tank. Release to coast and refill, or collect beans along the course to top it up.
+- 100 courses with turns, ramps, jumps, rushing water, bouncing edges and moving hazards, plus checkpoints.
+- Coins earned from adventure progress unlock outfits, hats, body colours and puff effects. Cosmetics never change the raft's physics.
+
+Included files (in-game screenshots, 1920 x 1080 PNG):
+- farting-hippos-screenshot-01-first-flight.png - Level 1, First Flight
+- farting-hippos-screenshot-02-skybound-grand-circuit.png - Level 60, Skybound Grand Circuit
+- farting-hippos-screenshot-03-ricochet-alley.png - Level 2, Ricochet Alley (trophy unlock)
+- farting-hippos-screenshot-04-adventure-map.png - Adventure map, chapter 1 of 10
+- farting-hippos-icon-512.png - App icon, 512 x 512
+- farting-hippos-feature-graphic-1024x500.png - Feature graphic, 1024 x 500
+
+These materials are provided for editorial coverage, reviews and listings of Farting Hippos.
