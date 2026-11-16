@@ -1,11 +1,11 @@
 Farting Hippos - press fact sheet
-Last updated: 14 November 2026
+Last updated: 16 November 2026
 Press kit: https://omargalal20084.github.io/farting-hippos-support/press/
 
 Developer and publisher: Brilliant Thoughts
 Platform: Android, on Google Play (Android 8.0 and up)
 Release date: 23 October 2026
-Current version: 1.0.0 (checked 14 November 2026)
+Current version: 1.0.0 (checked 16 November 2026)
 Price: Free. No advertisements, no in-app purchases and no account required.
 Mode: Single-player, playable offline. Multiplayer is not available in this release.
 Content: 100 obstacle courses in 10 chapters, 120 cosmetic choices and milestone trophies
@@ -31,5 +31,11 @@ Included files (in-game screenshots, 1920 x 1080 PNG):
 - farting-hippos-screenshot-04-adventure-map.png - Adventure map, chapter 1 of 10
 - farting-hippos-icon-512.png - App icon, 512 x 512
 - farting-hippos-feature-graphic-1024x500.png - Feature graphic, 1024 x 500
+
+Gameplay video (separate download, not in the ZIP):
+- Level 1, First Flight, start to finish, 47 seconds, uncut, with the game's own fart sound. Captured on PC from the
+  version 1.0.0 game code with the mobile on-screen controls shown; steered by the game's automated course-test pilot.
+- 1080p MP4: https://omargalal20084.github.io/farting-hippos-support/press/video/farting-hippos-level01-first-flight-gameplay-1080p.mp4
+- 720p MP4: https://omargalal20084.github.io/farting-hippos-support/press/video/farting-hippos-level01-first-flight-gameplay-720p.mp4
 
 These materials are provided for editorial coverage, reviews and listings of Farting Hippos.
